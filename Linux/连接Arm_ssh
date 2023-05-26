@@ -1,0 +1,6 @@
+ssh root@192.9.16.1
+密码 root
+
+cd /tmp/log
+cat .log_cfg
+cat log_000 执行的命令都存储在这个里面
